@@ -16,10 +16,13 @@ body {
   display: grid;
   grid-gap: 0.0625rem;
   grid-template-columns: repeat(3, 1fr);
-  width: 90%;
 }
 
 .square {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
   width: 6.25rem;
   height: 6.25rem;
   font-size: 5rem;
