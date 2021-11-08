@@ -50,6 +50,7 @@ export default function Board() {
 
       useEffect(() => {
             const w = calculateWinner(squares);
+            const l = !w;
             if (w) {
                   setWinner(w)
 

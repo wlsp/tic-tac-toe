@@ -16,6 +16,7 @@ body {
   display: grid;
   grid-gap: 0.0625rem;
   grid-template-columns: repeat(3, 1fr);
+  width: 90%;
 }
 
 .square {
@@ -26,10 +27,10 @@ body {
 }
 
 .square_o {
-  background-color: burlywood;
+  background-color: #4A90E2;
 }
 .square_x {
-  background-color: crimson;
+  background-color:crimson;
 }
 
 .reset {
