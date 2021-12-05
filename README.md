@@ -1,6 +1,6 @@
 ## Getting Started
 
-## Learning a Typescript // 
+## Learning Typescript // 
 
 Props to: 
 https://github.com/TomDoesTech
